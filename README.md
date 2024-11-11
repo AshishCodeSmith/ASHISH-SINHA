@@ -1,4 +1,4 @@
-
+[![An image of @ashishcodesmith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishcodesmith)](https://holopin.io/@ashishcodesmith)
 <h1 align="center">Hi 👋, I'm ASHISH SINHA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
